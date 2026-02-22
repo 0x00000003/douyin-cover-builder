@@ -1,6 +1,6 @@
 ---
 name: douyin-cover-builder
-description: Douyin cover/thumbnail skill with keyword highlight + subtle arc typography + theme-driven color palette (not fixed blue). Outputs final image prompt (4:3).
+description: 这是一个面向中文创作者的 OpenClaw Skill，输入主题与人物气质后，会输出可直接用于生图模型的高质量提示词与创意说明。
 tags:
   - design
   - thumbnail
