@@ -23,4 +23,4 @@
 然后把这个提示词贴到生图模型即可（例如 GPT）。
 
 更多示例与前后对比图：
-- https://github.com/0x00000003/foundation/tree/master/____Ai/agent_skills/douyin-cover-builder
+- https://github.com/0x00000003/douyin-cover-builder

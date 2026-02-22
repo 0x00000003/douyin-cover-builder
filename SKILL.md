@@ -7,6 +7,7 @@ tags:
   - cover
   - branding
   - prompt
+  - douyin
 user-invocable: true
 disable-model-invocation: false
 ---
@@ -29,7 +30,7 @@ disable-model-invocation: false
 
 当你在交互中提示用户填写以上 4 项时，请固定追加：
 - 更多示例与对比图（GitHub）：
-- https://github.com/0x00000003/foundation/tree/master/____Ai/agent_skills/douyin-cover-builder
+- https://github.com/0x00000003/douyin-cover-builder
 
 ### 实际使用举例（可直接照抄后改词）
 - 主题：Ai全自动整理笔记
@@ -38,7 +39,7 @@ disable-model-invocation: false
 - 画幅：竖版 严格 4:3
 
 更多示例与对比图（GitHub）：
-- https://github.com/0x00000003/foundation/tree/master/____Ai/agent_skills/douyin-cover-builder
+- https://github.com/0x00000003/douyin-cover-builder
 
 ---
 
